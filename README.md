@@ -33,7 +33,7 @@ SSAFY 13기 코틀린 인 액션 스터디
 - 나머지 부분은 ⇒ 개인 학습을 권장
 
 ## 멤버
-| <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> |  |  |  |
-| ----- | ----- | ----- | ----- |
-| [오인성](https://github.com/ois0886) |  |  |  |
+| <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> |  |  |  |  |  |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| [오인성](https://github.com/ois0886) |  |  |  |  |  |
 
