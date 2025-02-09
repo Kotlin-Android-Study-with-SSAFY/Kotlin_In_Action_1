@@ -1,9 +1,9 @@
 # SSAFY 13기 코틀린 인 액션 스터디(A)
 
 ## 멤버
-| <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> |  |  |  |  |
+| <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> | <a href="https://github.com/PSYUN"><img src="https://avatars.githubusercontent.com/u/133249953?v=4" width="90" height="90"></a> | <a href="https://github.com/HeoJamong"><img src="https://avatars.githubusercontent.com/u/84281455?v=4" width="90" height="90"></a> | <a href="https://github.com/prodksdb"><img src="https://avatars.githubusercontent.com/u/150729023?v=4" width="90" height="90"></a> | <a href="https://github.com/SeoHyunHo99"><img src="https://avatars.githubusercontent.com/u/43312841?v=4" width="90" height="90"></a> |
 | ----- | ----- | ----- | ----- | ----- |
-| [오인성](https://github.com/ois0886) | [박상윤] | [허지명] | [안유진] | [서현호] |
+| [오인성](https://github.com/ois0886) | [박상윤](https://github.com/ois0886) | [허지명](https://github.com/HeoJamong) | [안유진](https://github.com/ois0886) | [서현호](https://github.com/ois0886) |
 
 ## 진행 방식
 - 매주 한 챕터 ~ 한 주제로 스터디를 진행
@@ -26,68 +26,4 @@
 - 6주차(2025.03.25) : 9장. 제네릭스
 - 7주차(2025.04.01) : 10장. 애노테이션과 리플렉션
 - 나머지 부분은 ⇒ 개인 학습
-
-## 디렉토리 구조 (스터디 진행)
-```bash
-├── 1장. 코틀린이란 무엇이며, 왜 필요한가?
-│   ├── READMe.md(정리본) 오인성
-├── 2장. 코틀린 기초
-│   ├── READMe.md(정리본) 오인성
-├── 3장. 함수 정의와 호출
-│   ├── READMe.md(정리본)
-│   ├── 오인성
-│   ├── 안유진
-│   ├── 허지명
-│   ├── 박상윤
-│   └── 서현호
-├── 4장. 클래스, 객체, 인터페이스
-│   ├── READMe.md(정리본)
-│   ├── 오인성
-│   ├── 안유진
-│   ├── 허지명
-│   ├── 박상윤
-│   └── 서현호
-├── 5장. 람다로 프로그래밍
-│   ├── READMe.md(정리본)
-│   ├── 오인성
-│   ├── 안유진
-│   ├── 허지명
-│   ├── 박상윤
-│   └── 서현호
-├── 6장. 코틀린 타입 시스템
-│   ├── READMe.md(정리본)
-│   ├── 오인성
-│   ├── 안유진
-│   ├── 허지명
-│   ├── 박상윤
-│   └── 서현호
-├── 7장. 연산자 오버로딩과 기타 관례
-│   ├── READMe.md(정리본)
-│   ├── 오인성
-│   ├── 안유진
-│   ├── 허지명
-│   ├── 박상윤
-│   └── 서현호
-├── 8장. 고차 함수: 파라미터와 반환 값으로 람다 사용
-│   ├── READMe.md(정리본)
-│   ├── 오인성
-│   ├── 안유진
-│   ├── 허지명
-│   ├── 박상윤
-│   └── 서현호
-├── 9장. 제네릭스
-│   ├── READMe.md(정리본)
-│   ├── 오인성
-│   ├── 안유진
-│   ├── 허지명
-│   ├── 박상윤
-│   └── 서현호
-└── 10장. 애노테이션과 리플렉션
-    ├── READMe.md(정리본)
-    ├── 오인성
-    ├── 안유진
-    ├── 허지명
-    ├── 박상윤
-    └── 서현호
-```
 
