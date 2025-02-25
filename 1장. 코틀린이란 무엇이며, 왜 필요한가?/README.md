@@ -277,13 +277,11 @@ class Person {
 // 코틀린 스타일 (간결함)
 class Person(val name: String)
 ```
-​
 -   **코틀린에서는 한 줄로 표현 가능**
 -   **게터/세터 자동 생성**
 -   **불필요한 반복 코드 제거**
 ​
 #### 3\. 라이브러리 함수 활용
-​
 컬렉션에서 데이터를 찾는 것과 같은 일반적인 작업을 수행할 때,  
 자바에서는 복잡한 반복문을 사용해야 하지만 코틀린에서는 간단한 **표준 라이브러리 함수**를 사용할 수 있다.
 ```java
@@ -295,7 +293,6 @@ for (Person p : persons) {
 }
 return null;
 ```
-​
 ```kotlin
 // 코틀린 스타일
 persons.find { it.name == "Alice" }
@@ -308,8 +305,7 @@ persons.find { it.name == "Alice" }
 ```kotlin
 list.filter { it.length > 3 }.map { it.uppercase() }
 ```
-​
-✔ **장점**:
+**장점**:
 -   **더 적은 코드로 복잡한 연산 수행 가능**
 -   **불필요한 보일러플레이트 코드 제거**
 -   **가독성과 유지보수성 향상**
@@ -416,7 +412,9 @@ if (value is String) // 타입을 검사한다.
 ### 코틀린 코드 컴파일 과정
 코틀린 소스 코드를 저장할 때는 **.kt 확장자**를 사용한다.  
 컴파일 과정은 다음과 같다.
-​
+​![코틀린 코드 컴파일 과정](https://github.com/user-attachments/assets/e64cf4c7-078d-4033-a87f-3ea0375465d7)
+
+
 1\. **코틀린 컴파일러(kotlinc) 실행**
 -   .kt 파일을 .class 파일로 변환
 -   표준 패키징 과정을 거쳐 실행 가능하도록 준비
