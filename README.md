@@ -1,9 +1,9 @@
 # SSAFY 13기 코틀린 인 액션 스터디(A)
 
 ## 멤버
-| <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> | <a href="https://github.com/PSYUN"><img src="https://avatars.githubusercontent.com/u/133249953?v=4" width="90" height="90"></a> | <a href="https://github.com/HeoJamong"><img src="https://avatars.githubusercontent.com/u/84281455?v=4" width="90" height="90"></a> | <a href="https://github.com/prodksdb"><img src="https://avatars.githubusercontent.com/u/150729023?v=4" width="90" height="90"></a> | <a href="https://github.com/SeoHyunHo99"><img src="https://avatars.githubusercontent.com/u/43312841?v=4" width="90" height="90"></a> |
+| <a href="https://github.com/ois0886"><img src="https://avatars.githubusercontent.com/u/58154638?v=4" width="90" height="90"></a> | <a href="https://github.com/PSangYUN"><img src="https://avatars.githubusercontent.com/u/133249953?v=4" width="90" height="90"></a> | <a href="https://github.com/HeoJamong"><img src="https://avatars.githubusercontent.com/u/84281455?v=4" width="90" height="90"></a> | <a href="https://github.com/prodksdb"><img src="https://avatars.githubusercontent.com/u/150729023?v=4" width="90" height="90"></a> | <a href="https://github.com/SeoHyunHo99"><img src="https://avatars.githubusercontent.com/u/43312841?v=4" width="90" height="90"></a> |
 | ----- | ----- | ----- | ----- | ----- |
-| [오인성](https://github.com/ois0886) | [박상윤](https://github.com/ois0886) | [허지명](https://github.com/HeoJamong) | [안유진](https://github.com/ois0886) | [서현호](https://github.com/ois0886) |
+| [오인성](https://github.com/ois0886) | [박상윤](https://github.com/PSangYUN) | [허지명](https://github.com/HeoJamong) | [안유진](https://github.com/prodksdb) | [서현호](https://github.com/SeoHyunHo99) |
 
 ## 진행 방식
 - 매주 한 챕터 ~ 한 주제로 스터디를 진행
